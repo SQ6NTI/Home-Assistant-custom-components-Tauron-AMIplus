@@ -14,10 +14,10 @@
 [hacs]: https://hacs.xyz/docs/default_repositories
 
 [latest_release]: https://github.com/SQ6NTI/Home-Assistant-custom-components-Tauron-AMIplus/releases/latest
-[releases_shield]: https://img.shields.io/github/release/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus.svg?style=popout
+[releases_shield]: https://img.shields.io/github/release/SQ6NTI/Home-Assistant-custom-components-Tauron-AMIplus.svg?style=popout
 
 [releases]: https://github.com/SQ6NTI/Home-Assistant-custom-components-Tauron-AMIplus/releases
-[downloads_total_shield]: https://img.shields.io/github/downloads/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus/total
+[downloads_total_shield]: https://img.shields.io/github/downloads/SQ6NTI/Home-Assistant-custom-components-Tauron-AMIplus/total
 
 [installations_shield]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Fcustom_integrations.json&query=%24.tauron_amiplus.total&style=popout&color=41bdf5&label=analytics
 
